@@ -6,4 +6,4 @@
 
 Projeto desenvolvido com **HTML**, **CSS** e **Javascript**.
 
-Feito com :heart: por [Ana Júlia](https://github.com/AJuliaSouza)
+Feito com :heart: por [Ana Júlia Souza](https://github.com/AJuliaSouza)
